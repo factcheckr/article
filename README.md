@@ -11,5 +11,14 @@
 - https://factcheckr.github.io/bookjournalism/books.xml
 - https://factcheckr.github.io/bookjournalism/audioclip.xml
 
+## [캐릿](https://github.com/factcheckr/careet)
+- https://factcheckr.github.io/careet/contents.xml
+- https://factcheckr.github.io/careet/contents_meme.xml
+- https://factcheckr.github.io/careet/contents_zgeneration.xml
+- https://factcheckr.github.io/careet/contents_brand.xml
+- https://factcheckr.github.io/careet/contents_newsclipping.xml
+- https://factcheckr.github.io/careet/contents_dictionary.xml
+- https://factcheckr.github.io/careet/newsletter.xml
+
 ## [네이버 프리미엄콘텐츠](https://github.com/factcheckr/naver_premium)
 - https://factcheckr.github.io/naver_premium/free.xml
