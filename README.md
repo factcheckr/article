@@ -20,5 +20,12 @@
 - https://factcheckr.github.io/careet/contents_dictionary.xml
 - https://factcheckr.github.io/careet/newsletter.xml
 
+## [어피티](https://github.com/factcheckr/uppity)
+- https://factcheckr.github.io/uppity/news.xml
+- https://factcheckr.github.io/uppity/serial.xml
+- https://factcheckr.github.io/uppity/moneylog.xml
+- https://factcheckr.github.io/uppity/moneyletter_archive.xml
+- https://factcheckr.github.io/uppity/brunch.xml
+
 ## [네이버 프리미엄콘텐츠](https://github.com/factcheckr/naver_premium)
 - https://factcheckr.github.io/naver_premium/free.xml
