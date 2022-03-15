@@ -40,5 +40,8 @@
 - 😷코로나19: https://factcheckr.github.io/newneek/covid-19.xml
 - 🍕피자스테이션: https://factcheckr.github.io/newneek/pizzastation.xml
 
+## [닷페이스](https://github.com/factcheckr/dotface)
+- https://factcheckr.github.io/dotface/dotface.xml
+
 ## [네이버 프리미엄콘텐츠](https://github.com/factcheckr/naver_premium)
 - https://factcheckr.github.io/naver_premium/free.xml
