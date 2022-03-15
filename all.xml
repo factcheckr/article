@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://factcheckr.github.io/article/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2022-03-15T12:20:51.422Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[백화점의 공식을 깨다: 일본 백화점의 이유 있는 변신 (퍼블리)]]></title>
+        <id>https://publy.co/content/6723?fr=category</id>
+        <link href="https://publy.co/content/6723?fr=category"/>
+        <updated>2022-03-15T12:20:50.653Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일 잘하는 PM은 업무 요청부터 다르다 (퍼블리)]]></title>
+        <id>https://publy.co/content/6737?fr=category</id>
+        <link href="https://publy.co/content/6737?fr=category"/>
+        <updated>2022-03-15T12:20:50.654Z</updated>
+        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팝업스토어 운영기: 이태원 좁은 골목에 4만 명을 불러모으다 (퍼블리)]]></title>
+        <id>https://publy.co/content/6728?fr=category</id>
+        <link href="https://publy.co/content/6728?fr=category"/>
+        <updated>2022-03-15T12:20:50.655Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다음이 밀어주는 '카카오뷰', 기본 세팅부터 실전 활용까지 (퍼블리)]]></title>
+        <id>https://publy.co/content/6727?fr=category</id>
+        <link href="https://publy.co/content/6727?fr=category"/>
+        <updated>2022-03-15T12:20:50.659Z</updated>
+        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋은 PM이라면 주의해야 할 의사결정 편향 (퍼블리)]]></title>
+        <id>https://publy.co/content/6695?fr=category</id>
+        <link href="https://publy.co/content/6695?fr=category"/>
+        <updated>2022-03-15T12:20:50.661Z</updated>
+        <content type="html"><![CDATA[아티클 · 13분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노코드: 시장에서 통하는 서비스를 만드는 PM의 기술 (퍼블리)]]></title>
+        <id>https://publy.co/content/6710?fr=category</id>
+        <link href="https://publy.co/content/6710?fr=category"/>
+        <updated>2022-03-15T12:20:50.662Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주니어 개발자를 위한 정보 검색 노하우 (퍼블리)]]></title>
+        <id>https://publy.co/content/6713?fr=category</id>
+        <link href="https://publy.co/content/6713?fr=category"/>
+        <updated>2022-03-15T12:20:50.663Z</updated>
+        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한번에 통과되는 기획서는 '논리'가 있다 (퍼블리)]]></title>
+        <id>https://publy.co/content/6719?fr=category</id>
+        <link href="https://publy.co/content/6719?fr=category"/>
+        <updated>2022-03-15T12:20:50.665Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그로스해킹: 데이터와 실험으로 성장하는 서비스 만들기 (퍼블리)]]></title>
+        <id>https://publy.co/content/6722?fr=category</id>
+        <link href="https://publy.co/content/6722?fr=category"/>
+        <updated>2022-03-15T12:20:50.666Z</updated>
+        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신입 마케터가 어떻게 팔로워 꼴찌를 1위로 만들었을까? (퍼블리)]]></title>
+        <id>https://publy.co/content/6700?fr=category</id>
+        <link href="https://publy.co/content/6700?fr=category"/>
+        <updated>2022-03-15T12:20:50.667Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
+</feed>
