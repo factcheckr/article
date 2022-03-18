@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/article/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-18T08:10:23.759Z</updated>
+    <updated>2022-03-18T09:09:25.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[사용자를 끌어당기는 UX 속 심리학 법칙 (퍼블리)]]></title>
+        <id>https://publy.co/content/6708?fr=category</id>
+        <link href="https://publy.co/content/6708?fr=category"/>
+        <updated>2022-03-18T09:09:24.718Z</updated>
+        <content type="html"><![CDATA[아티클 · 12분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[픽사 스토리텔링: 고객의 마음을 사로잡는 스토리 법칙 (퍼블리)]]></title>
         <id>https://publy.co/content/6729?fr=category</id>
@@ -66,12 +73,5 @@
         <link href="https://publy.co/content/6713?fr=category"/>
         <updated>2022-03-15T12:20:50.663Z</updated>
         <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한번에 통과되는 기획서는 '논리'가 있다 (퍼블리)]]></title>
-        <id>https://publy.co/content/6719?fr=category</id>
-        <link href="https://publy.co/content/6719?fr=category"/>
-        <updated>2022-03-15T12:20:50.665Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
 </feed>
