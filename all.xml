@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/article/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-25T08:10:32.869Z</updated>
+    <updated>2022-03-25T09:09:25.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[개발 시간을 줄여주는 이름 짓기 노하우 (퍼블리)]]></title>
+        <id>https://publy.co/content/6731?fr=category</id>
+        <link href="https://publy.co/content/6731?fr=category"/>
+        <updated>2022-03-25T09:09:24.439Z</updated>
+        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사용성 테스트, 지금 당장 해야 하는 이유와 방법 (퍼블리)]]></title>
         <id>https://publy.co/content/6694?fr=category</id>
@@ -66,12 +73,5 @@
         <link href="https://publy.co/content/6723?fr=category"/>
         <updated>2022-03-15T12:20:50.653Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일 잘하는 PM은 업무 요청부터 다르다 (퍼블리)]]></title>
-        <id>https://publy.co/content/6737?fr=category</id>
-        <link href="https://publy.co/content/6737?fr=category"/>
-        <updated>2022-03-15T12:20:50.654Z</updated>
-        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
     </entry>
 </feed>
