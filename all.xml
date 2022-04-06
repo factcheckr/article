@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/article/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-06T08:10:53.264Z</updated>
+    <updated>2022-04-06T09:08:56.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[의도적 휴식 만들기: 나에게 딱 맞는 잘 쉬는 법 (퍼블리)]]></title>
+        <id>https://publy.co/content/6757?fr=category</id>
+        <link href="https://publy.co/content/6757?fr=category"/>
+        <updated>2022-04-06T09:08:56.132Z</updated>
+        <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리도 할 수 있어! CBO가 알려주는 실전 개발자 채용법 (퍼블리)]]></title>
         <id>https://publy.co/content/6756?fr=category</id>
@@ -66,12 +73,5 @@
         <link href="https://publy.co/content/6731?fr=category"/>
         <updated>2022-03-25T09:09:24.439Z</updated>
         <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사용성 테스트, 지금 당장 해야 하는 이유와 방법 (퍼블리)]]></title>
-        <id>https://publy.co/content/6694?fr=category</id>
-        <link href="https://publy.co/content/6694?fr=category"/>
-        <updated>2022-03-24T10:09:18.328Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
 </feed>
