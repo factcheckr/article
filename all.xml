@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/article/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-12T07:09:15.818Z</updated>
+    <updated>2022-04-12T08:11:35.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[웹툰] 대퇴사의 시대, 출근길에 오르는 마음 (퍼블리)]]></title>
+        <id>https://publy.co/content/6780?fr=category</id>
+        <link href="https://publy.co/content/6780?fr=category"/>
+        <updated>2022-04-12T08:11:35.083Z</updated>
+        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어느 날 팀원이 퇴사하겠다고 말했다 (feat. 팀장의 대처법) (퍼블리)]]></title>
         <id>https://publy.co/content/6751?fr=category</id>
@@ -66,12 +73,5 @@
         <link href="https://publy.co/content/6753?fr=category"/>
         <updated>2022-03-30T09:08:56.805Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발 시간 줄여주는 노하우: 주석 쓰기 편 (퍼블리)]]></title>
-        <id>https://publy.co/content/6754?fr=category</id>
-        <link href="https://publy.co/content/6754?fr=category"/>
-        <updated>2022-03-29T08:11:14.330Z</updated>
-        <content type="html"><![CDATA[아티클 · 6분 분량]]></content>
     </entry>
 </feed>
