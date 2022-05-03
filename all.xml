@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/article/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-03T07:09:06.778Z</updated>
+    <updated>2022-05-03T08:11:41.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[사용자 경험을 설계하는 UX라이팅, 이것만은 조심하자 (퍼블리)]]></title>
+        <id>https://publy.co/content/6794?fr=category</id>
+        <link href="https://publy.co/content/6794?fr=category"/>
+        <updated>2022-05-03T08:11:40.937Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내외 300개 서비스 브랜드 인스타 콘텐츠 뜯어보니 (퍼블리)]]></title>
+        <id>https://publy.co/content/6791?fr=category</id>
+        <link href="https://publy.co/content/6791?fr=category"/>
+        <updated>2022-05-03T08:11:40.940Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[직무를 옮기기 위한 4가지 팁: 인사팀 출신 마케터로 12년 간 살아남은 비결 (퍼블리)]]></title>
         <id>https://publy.co/content/6788?fr=category</id>
@@ -12,7 +26,7 @@
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모두의 이해를 높이는 원 페이저 작성법 (노션 템플릿 제공) (퍼블리)]]></title>
+        <title type="html"><![CDATA[제품의 모든 것을 한 장에 담는 원 페이저 작성법 (노션 템플릿 제공) (퍼블리)]]></title>
         <id>https://publy.co/content/6787?fr=category</id>
         <link href="https://publy.co/content/6787?fr=category"/>
         <updated>2022-04-29T08:12:20.126Z</updated>
@@ -59,19 +73,5 @@
         <link href="https://publy.co/content/6778?fr=category"/>
         <updated>2022-04-21T08:12:46.970Z</updated>
         <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 마케터가 꼭 알아야 할 NFT 사용법 (퍼블리)]]></title>
-        <id>https://publy.co/content/6781?fr=category</id>
-        <link href="https://publy.co/content/6781?fr=category"/>
-        <updated>2022-04-21T08:12:46.980Z</updated>
-        <content type="html"><![CDATA[아티클 · 17분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90년대생도 팀장이 된다 : <문명특급> 밍키 PD가 말하는 요즘 리더십 (퍼블리)]]></title>
-        <id>https://publy.co/content/6765?fr=category</id>
-        <link href="https://publy.co/content/6765?fr=category"/>
-        <updated>2022-04-20T08:11:55.017Z</updated>
-        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
     </entry>
 </feed>
