@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/article/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-26T06:12:24.003Z</updated>
+    <updated>2022-05-26T07:14:17.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[팀워크는 친해지는 것만으로 해결되지 않는다 (feat. 팀장의 빌드업 노하우) (퍼블리)]]></title>
@@ -47,18 +47,18 @@
         <content type="html"><![CDATA[아티클 · 8분 분량]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팀 효율을 높이는 팀장은 매뉴얼을 '이렇게' 만든다 (퍼블리)]]></title>
-        <id>https://publy.co/content/6795?fr=category</id>
-        <link href="https://publy.co/content/6795?fr=category"/>
-        <updated>2022-05-24T01:59:51.423Z</updated>
-        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사례로 보는 검색과 탐색 UX/UI 비교 분석 (퍼블리)]]></title>
         <id>https://publy.co/content/6760?fr=category</id>
         <link href="https://publy.co/content/6760?fr=category"/>
         <updated>2022-05-24T01:59:51.423Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팀 효율을 높이는 팀장은 매뉴얼을 '이렇게' 만든다 (템플릿 제공) (퍼블리)]]></title>
+        <id>https://publy.co/content/6795?fr=category</id>
+        <link href="https://publy.co/content/6795?fr=category"/>
+        <updated>2022-05-24T01:59:51.423Z</updated>
+        <content type="html"><![CDATA[아티클 · 15분 분량]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사례로 보는 서비스 별 A/B 테스트: 온보딩 단계 (퍼블리)]]></title>
