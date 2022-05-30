@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/article/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-30T08:13:01.963Z</updated>
+    <updated>2022-05-30T09:12:14.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[데이터를 해석할 때 하기 쉬운 N가지 실수 (퍼블리)]]></title>
