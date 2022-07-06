@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/article/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-06T08:21:49.175Z</updated>
+    <updated>2022-07-06T09:09:51.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[(웹소설) 팀장의 파워 게임 : 플레이어 [ep.Final] (퍼블리)]]></title>
+        <id>https://publy.co/content/6880?fr=category</id>
+        <link href="https://publy.co/content/6880?fr=category"/>
+        <updated>2022-07-06T09:09:51.081Z</updated>
+        <content type="html"><![CDATA[아티클 · 16분 분량]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[채널톡 세일즈 리드가 알려주는 B2B 세일즈 리드 확보 노하우 (퍼블리)]]></title>
         <id>https://publy.co/content/6866?fr=category</id>
@@ -66,12 +73,5 @@
         <link href="https://publy.co/content/6855?fr=category"/>
         <updated>2022-06-24T10:09:18.470Z</updated>
         <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변화하는 퍼포먼스 마케팅 시장에서 살아남기 (퍼블리)]]></title>
-        <id>https://publy.co/content/6846?fr=category</id>
-        <link href="https://publy.co/content/6846?fr=category"/>
-        <updated>2022-06-24T10:09:18.471Z</updated>
-        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
     </entry>
 </feed>
