@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/article/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-09T04:32:02.186Z</updated>
+    <updated>2022-08-09T05:18:44.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[[퍼블리 소식] 퍼블리 SNS 계정 팔로우하고, 다양한 이야기를 만나보세요! (퍼블리)]]></title>
-        <id>https://publy.co/content/6907?fr=category</id>
-        <link href="https://publy.co/content/6907?fr=category"/>
-        <updated>2022-08-08T09:09:24.393Z</updated>
-        <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[당장 써먹는 고객 여정별 CRM 마케팅 레퍼런스 (퍼블리)]]></title>
         <id>https://publy.co/content/6923?fr=category</id>
@@ -73,5 +66,12 @@
         <link href="https://publy.co/content/6916?fr=category"/>
         <updated>2022-07-29T04:40:29.933Z</updated>
         <content type="html"><![CDATA[아티클 · 1분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PO출신이 짚어주는, 창업하기 전에 쌓아두어야 할 역량 (퍼블리)]]></title>
+        <id>https://publy.co/content/6856?fr=category</id>
+        <link href="https://publy.co/content/6856?fr=category"/>
+        <updated>2022-08-09T05:18:43.855Z</updated>
+        <content type="html"><![CDATA[아티클 · 14분 분량]]></content>
     </entry>
 </feed>
