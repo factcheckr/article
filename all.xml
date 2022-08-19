@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/article/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-19T04:42:24.128Z</updated>
+    <updated>2022-08-19T05:21:12.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[팀원 설득 시간을 반으로 줄여주는 A/B테스트 설계 문서 작성 노하우(노션 템플릿 제공) (퍼블리)]]></title>
