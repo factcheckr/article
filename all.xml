@@ -2,6 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/article/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-27T18:11:09.741Z</updated>
+    <updated>2023-02-27T19:08:13.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[사례로 보는 신규 사업 기획서 작성 5단계(PPT 파일 제공) (퍼블리)]]></title>
+        <id>https://publy.co/content/7152?fr=category</id>
+        <link href="https://publy.co/content/7152?fr=category"/>
+        <updated>2023-02-27T19:08:12.586Z</updated>
+        <content type="html"><![CDATA[아티클 · 9분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일잘러가 말하는 성공의 힘은? 현직자 인터뷰 모음 (퍼블리)]]></title>
+        <id>https://publy.co/content/7153?fr=category</id>
+        <link href="https://publy.co/content/7153?fr=category"/>
+        <updated>2023-02-27T19:08:12.600Z</updated>
+        <content type="html"><![CDATA[아티클]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제 2의 전성기를 노린다! 기업 리브랜딩 사례 13가지 모음 (퍼블리)]]></title>
+        <id>https://publy.co/content/7125?fr=category</id>
+        <link href="https://publy.co/content/7125?fr=category"/>
+        <updated>2023-02-27T19:08:12.617Z</updated>
+        <content type="html"><![CDATA[아티클 · 16분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 팀장의 콘텐츠 리더십: 조직에 의존하지 않고 나의 콘텐츠로 나아가는 법 (퍼블리)]]></title>
+        <id>https://publy.co/content/7147?fr=category</id>
+        <link href="https://publy.co/content/7147?fr=category"/>
+        <updated>2023-02-27T19:08:12.622Z</updated>
+        <content type="html"><![CDATA[아티클 · 11분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나를 잘 돌보는 힘, 생활력 트래커 작성법(pdf 템플릿 제공) (퍼블리)]]></title>
+        <id>https://publy.co/content/7145?fr=category</id>
+        <link href="https://publy.co/content/7145?fr=category"/>
+        <updated>2023-02-27T19:08:12.624Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상황별 영어 비즈니스 이메일 표현 모음.zip (퍼블리)]]></title>
+        <id>https://publy.co/content/7148?fr=category</id>
+        <link href="https://publy.co/content/7148?fr=category"/>
+        <updated>2023-02-27T19:08:12.626Z</updated>
+        <content type="html"><![CDATA[아티클 · 20분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팀장을 위한 공지문/메일 양식 모음 (퍼블리)]]></title>
+        <id>https://publy.co/content/7142?fr=category</id>
+        <link href="https://publy.co/content/7142?fr=category"/>
+        <updated>2023-02-27T19:08:12.628Z</updated>
+        <content type="html"><![CDATA[아티클 · 5분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3일 만에 끝내는 면접 준비: 예상 질문부터 가이드까지! (퍼블리)]]></title>
+        <id>https://publy.co/content/7143?fr=category</id>
+        <link href="https://publy.co/content/7143?fr=category"/>
+        <updated>2023-02-27T19:08:12.632Z</updated>
+        <content type="html"><![CDATA[아티클 · 2분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["요즘" 면접 예상 질문 100개 모음 (답변 가이드 및 역질문 15종 추가 제공) (퍼블리)]]></title>
+        <id>https://publy.co/content/7144?fr=category</id>
+        <link href="https://publy.co/content/7144?fr=category"/>
+        <updated>2023-02-27T19:08:12.636Z</updated>
+        <content type="html"><![CDATA[아티클 · 7분 분량]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기록하기 전까지는 읽은 게 아니다 : 독서 기록법(독서 대시보드 템플릿 제공) (퍼블리)]]></title>
+        <id>https://publy.co/content/7139?fr=category</id>
+        <link href="https://publy.co/content/7139?fr=category"/>
+        <updated>2023-02-27T19:08:12.645Z</updated>
+        <content type="html"><![CDATA[아티클 · 10분 분량]]></content>
+    </entry>
 </feed>
